@@ -1,0 +1,51 @@
+Erick Britto
+X2-EPSILON 
+1.77 
+3102 
+2.902 
+Monica Pires
+X4-DELTA 
+1.75 
+3101 
+2.853 
+Oliver Teodorico Cunha
+X5-LAMBDA 
+1.81 
+3104 
+2.775 
+Amanda Gabriela Silva
+X6-SIGMA 
+1.93 
+3108 
+2.689 
+Vitor Bastos Pereira
+X8-GAMA 
+1.83 
+3105 
+2.855 
+Katia Pereira Fagundes
+Y1-ALPHA 
+1.78 
+3103 
+2.885 
+Roberto Carlos Santos e Silva
+Y2-TETHA 
+1.85 
+3106 
+0.697 
+Mario Prado Filho
+Y3-OMEGA 
+1.94 
+3109 
+2.787 
+Alex Britto
+Y7-BETHA 
+1.95 
+3110 
+2.789 
+Fernanda Braga
+Y9-ZETHA 
+1.85 
+3107 
+2.022 
+
